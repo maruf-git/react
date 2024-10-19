@@ -1,0 +1,9 @@
+*{
+    
+}
+
+.props-container{
+    border:2px solid tomato;
+    padding:25px;
+    border-radius: 15px;
+}

@@ -22,8 +22,6 @@ function App() {
         <UseStateHook random={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", gap: "10px" }} issa={50}
         amrArray={[10,20,30]}></UseStateHook>
       </div>
-
-
     </>
   )
 }
