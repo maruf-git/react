@@ -1,0 +1,15 @@
+.country-container{
+    border:2px solid tomato;
+    padding:15px;
+    border-radius:15px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    color:green;
+}
+.red{
+    color:red;
+}
