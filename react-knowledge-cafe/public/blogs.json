@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co.com/8zM5TCP/1.jpg",
+        "title": "Understanding JavaScript Closures",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/XFwx4Vm/boy1.png",
+        "post_date": "01 October 2024",
+        "reading_time": 5,
+        "hashtags": ["#JavaScript", "#Closures", "#Programming"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co.com/LpKNJfW/2.png",
+        "title": "A Guide to CSS Flexbox",
+        "author": "Bob Smith",
+        "author_img": "https://i.ibb.co.com/hBSWCxC/boy2.jpg",
+        "post_date": "05 October 2024",
+        "reading_time": 8,
+        "hashtags": ["#CSS", "#Flexbox", "#WebDesign"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co.com/bg3SQFg/girl1.jpg",
+        "title": "Getting Started with Python",
+        "author": "Carol Lee",
+        "author_img": "https://example.com/author3.jpg",
+        "post_date": "10 October 2024",
+        "reading_time": 4,
+        "hashtags": ["#Python", "#Programming", "#Coding"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co.com/XprVYkh/girl2.jpg",
+        "title": "Exploring the Basics of HTML",
+        "author": "David Brown",
+        "author_img": "https://example.com/author4.jpg",
+        "post_date": "15 October 2024",
+        "reading_time": 6,
+        "hashtags": ["#HTML", "#WebDevelopment", "#Learning"]
+    }
+]
