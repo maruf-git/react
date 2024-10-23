@@ -21,20 +21,20 @@
     },
     {
         "id": 3,
-        "cover_img": "https://i.ibb.co.com/bg3SQFg/girl1.jpg",
+        "cover_img": "https://i.ibb.co.com/585j63B/3.png",
         "title": "Getting Started with Python",
         "author": "Carol Lee",
-        "author_img": "https://example.com/author3.jpg",
+        "author_img": "https://i.ibb.co.com/bg3SQFg/girl1.jpg",
         "post_date": "10 October 2024",
         "reading_time": 4,
         "hashtags": ["#Python", "#Programming", "#Coding"]
     },
     {
         "id": 4,
-        "cover_img": "https://i.ibb.co.com/XprVYkh/girl2.jpg",
+        "cover_img": "https://i.ibb.co.com/Swt9KFG/4.jpg",
         "title": "Exploring the Basics of HTML",
         "author": "David Brown",
-        "author_img": "https://example.com/author4.jpg",
+        "author_img": "https://i.ibb.co.com/XprVYkh/girl2.jpg",
         "post_date": "15 October 2024",
         "reading_time": 6,
         "hashtags": ["#HTML", "#WebDevelopment", "#Learning"]
