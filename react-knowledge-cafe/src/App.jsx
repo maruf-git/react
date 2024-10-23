@@ -12,9 +12,10 @@ function App() {
       {/* header section */}
       <Header></Header>
       {/* horizontal line */}
-      <hr className="text-xl border-1 mb-4" />
-      {/* blog section */}
+      <hr className="border-2 mb-4" />
+      {/* blogs and blogs menu section*/}
       <div className="flex gap-5">
+        {/* blogs section */}
         <Blogs></Blogs>
         <BookmarkMenu></BookmarkMenu>
       </div>

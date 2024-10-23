@@ -13,8 +13,7 @@ const Blogs = () => {
 
     // rendering
     return (
-        <div className="w-2/3 border border-red-400">
-            <h1>total blogs:{blogs.length}</h1>
+        <div className="w-2/3">
             {
                 blogs.map(blog=><Blog key={blog.id} blog={blog}></Blog>)
             }
