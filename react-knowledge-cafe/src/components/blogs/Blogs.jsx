@@ -12,8 +12,8 @@ const Blogs = () => {
 
     // rendering
     return (
-        <div>
-
+        <div className="w-2/3 border border-red-400">
+            blogs
         </div>
     );
 };
